@@ -401,7 +401,7 @@ article .box{
 }
 .banner a{
   display: block;
-  padding: 0 0px 0px 14px;
+  padding: 0 14px;
 }
 .banner img{
   width: 100%;
