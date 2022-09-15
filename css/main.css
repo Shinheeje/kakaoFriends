@@ -26,7 +26,6 @@ button{
   max-width:640px; min-width:270px;
   height:2000px;
   margin:0 auto;
-  background-image:linear-gradient(to bottom, white 40%, #e071d1 75%, #ec4217);
 }
 
 header {
